@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ASPagina-P5'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A1527F0D9D04A248CF756254AF156AC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_46274A8169464F27BF92207445B65448 }}
           package: .
